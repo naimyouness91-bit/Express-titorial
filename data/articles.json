@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Premier article",
+    "content": "Contenu de l'article 1"
+  },
+  {
+    "id": 2,
+    "title": "Deuxième article",
+    "content": "Contenu de l'article 2"
+  },
+  {
+    "id": 3,
+    "title": "Article جديد",
+    "content": "Content ديالو"
+  },
+  {
+    "id": 4,
+    "title": "Article جديد",
+    "content": "Content ديالو"
+  }
+]
